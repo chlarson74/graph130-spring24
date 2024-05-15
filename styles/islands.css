@@ -14,7 +14,7 @@ body, header, main, footer, section, article, aside {
 
 main, header, nav ul, footer {
     display: grid;
-    grid-template-columns: 33% 33% 33%;
+    grid-template-columns:auto auto auto;
     /* background-color: lightgray; */
 }
 
